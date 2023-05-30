@@ -33,7 +33,7 @@ node index.js
 ![script](screen.png)
 
 ```ruby
-GET /card/:number/:month/:year/:cvv
+GET /:number/:month/:year/:cvv
 ```
 Replace :number, :month, :year, and :cvv with the respective values of the card you want to check. The API will return a JSON response indicating whether the card is valid or not.
 
