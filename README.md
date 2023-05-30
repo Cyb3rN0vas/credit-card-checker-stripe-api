@@ -13,7 +13,6 @@ You must first have NodeJS and NPM installed on your server.
 
 ```bash
   npm install
-  cd my-project
 ```
 
 2 - Open the config.json file and add your Stripe API key(s).
